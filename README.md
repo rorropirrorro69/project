@@ -1,4 +1,4 @@
-# analisis de datos de anuncios de venta de coches
+# analisis de datos marketing
 proyecto1bootcamp
 # Proyecto 7 - Panel de Control de Venta de Coches
 
